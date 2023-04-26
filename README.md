@@ -1,2 +1,5 @@
 # SpotifyDownloader
-Downloads playlists from spotify.
+
+:D
+
+Download playlists from spotify.
